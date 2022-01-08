@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\NetCoreWebApiMultiTier.WebApi.Data\NetCoreWebApiMultiTier.WebApi.Data.csproj" />
+    <ProjectReference Include="..\NetCoreWebApiMultiTier.WebApi.ExternalApiServices\NetCoreWebApiMultiTier.WebApi.ExternalApiServices.csproj" />
+  </ItemGroup>
+
+</Project>

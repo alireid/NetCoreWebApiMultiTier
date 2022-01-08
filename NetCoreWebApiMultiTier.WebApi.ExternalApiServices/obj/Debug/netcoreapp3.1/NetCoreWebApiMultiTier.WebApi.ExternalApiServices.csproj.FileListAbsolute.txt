@@ -1,0 +1,9 @@
+/Users/allyreid/Desktop/NetCoreWebApiMultiTier/NetCoreWebApiMultiTier.WebApi.ExternalApiServices/bin/Debug/netcoreapp3.1/NetCoreWebApiMultiTier.WebApi.ExternalApiServices.deps.json
+/Users/allyreid/Desktop/NetCoreWebApiMultiTier/NetCoreWebApiMultiTier.WebApi.ExternalApiServices/bin/Debug/netcoreapp3.1/NetCoreWebApiMultiTier.WebApi.ExternalApiServices.dll
+/Users/allyreid/Desktop/NetCoreWebApiMultiTier/NetCoreWebApiMultiTier.WebApi.ExternalApiServices/bin/Debug/netcoreapp3.1/NetCoreWebApiMultiTier.WebApi.ExternalApiServices.pdb
+/Users/allyreid/Desktop/NetCoreWebApiMultiTier/NetCoreWebApiMultiTier.WebApi.ExternalApiServices/obj/Debug/netcoreapp3.1/NetCoreWebApiMultiTier.WebApi.ExternalApiServices.GeneratedMSBuildEditorConfig.editorconfig
+/Users/allyreid/Desktop/NetCoreWebApiMultiTier/NetCoreWebApiMultiTier.WebApi.ExternalApiServices/obj/Debug/netcoreapp3.1/NetCoreWebApiMultiTier.WebApi.ExternalApiServices.AssemblyInfoInputs.cache
+/Users/allyreid/Desktop/NetCoreWebApiMultiTier/NetCoreWebApiMultiTier.WebApi.ExternalApiServices/obj/Debug/netcoreapp3.1/NetCoreWebApiMultiTier.WebApi.ExternalApiServices.AssemblyInfo.cs
+/Users/allyreid/Desktop/NetCoreWebApiMultiTier/NetCoreWebApiMultiTier.WebApi.ExternalApiServices/obj/Debug/netcoreapp3.1/NetCoreWebApiMultiTier.WebApi.ExternalApiServices.csproj.CoreCompileInputs.cache
+/Users/allyreid/Desktop/NetCoreWebApiMultiTier/NetCoreWebApiMultiTier.WebApi.ExternalApiServices/obj/Debug/netcoreapp3.1/NetCoreWebApiMultiTier.WebApi.ExternalApiServices.dll
+/Users/allyreid/Desktop/NetCoreWebApiMultiTier/NetCoreWebApiMultiTier.WebApi.ExternalApiServices/obj/Debug/netcoreapp3.1/NetCoreWebApiMultiTier.WebApi.ExternalApiServices.pdb

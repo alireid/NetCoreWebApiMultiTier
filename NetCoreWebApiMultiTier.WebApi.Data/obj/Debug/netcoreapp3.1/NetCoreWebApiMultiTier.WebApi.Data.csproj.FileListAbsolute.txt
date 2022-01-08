@@ -1,0 +1,13 @@
+/Users/allyreid/Desktop/NetCoreWebApiMultiTier/NetCoreWebApiMultiTier.WebApi.Data/bin/Debug/netcoreapp3.1/NetCoreWebApiMultiTier.WebApi.Data.deps.json
+/Users/allyreid/Desktop/NetCoreWebApiMultiTier/NetCoreWebApiMultiTier.WebApi.Data/bin/Debug/netcoreapp3.1/NetCoreWebApiMultiTier.WebApi.Data.dll
+/Users/allyreid/Desktop/NetCoreWebApiMultiTier/NetCoreWebApiMultiTier.WebApi.Data/bin/Debug/netcoreapp3.1/NetCoreWebApiMultiTier.WebApi.Data.pdb
+/Users/allyreid/Desktop/NetCoreWebApiMultiTier/NetCoreWebApiMultiTier.WebApi.Data/bin/Debug/netcoreapp3.1/NetCoreWebApiMultiTier.WebApi.ExternalApiServices.dll
+/Users/allyreid/Desktop/NetCoreWebApiMultiTier/NetCoreWebApiMultiTier.WebApi.Data/bin/Debug/netcoreapp3.1/NetCoreWebApiMultiTier.WebApi.ExternalApiServices.pdb
+/Users/allyreid/Desktop/NetCoreWebApiMultiTier/NetCoreWebApiMultiTier.WebApi.Data/obj/Debug/netcoreapp3.1/NetCoreWebApiMultiTier.WebApi.Data.csproj.AssemblyReference.cache
+/Users/allyreid/Desktop/NetCoreWebApiMultiTier/NetCoreWebApiMultiTier.WebApi.Data/obj/Debug/netcoreapp3.1/NetCoreWebApiMultiTier.WebApi.Data.GeneratedMSBuildEditorConfig.editorconfig
+/Users/allyreid/Desktop/NetCoreWebApiMultiTier/NetCoreWebApiMultiTier.WebApi.Data/obj/Debug/netcoreapp3.1/NetCoreWebApiMultiTier.WebApi.Data.AssemblyInfoInputs.cache
+/Users/allyreid/Desktop/NetCoreWebApiMultiTier/NetCoreWebApiMultiTier.WebApi.Data/obj/Debug/netcoreapp3.1/NetCoreWebApiMultiTier.WebApi.Data.AssemblyInfo.cs
+/Users/allyreid/Desktop/NetCoreWebApiMultiTier/NetCoreWebApiMultiTier.WebApi.Data/obj/Debug/netcoreapp3.1/NetCoreWebApiMultiTier.WebApi.Data.csproj.CoreCompileInputs.cache
+/Users/allyreid/Desktop/NetCoreWebApiMultiTier/NetCoreWebApiMultiTier.WebApi.Data/obj/Debug/netcoreapp3.1/NetCoreWebApiMultiTier.WebApi.Data.csproj.CopyComplete
+/Users/allyreid/Desktop/NetCoreWebApiMultiTier/NetCoreWebApiMultiTier.WebApi.Data/obj/Debug/netcoreapp3.1/NetCoreWebApiMultiTier.WebApi.Data.dll
+/Users/allyreid/Desktop/NetCoreWebApiMultiTier/NetCoreWebApiMultiTier.WebApi.Data/obj/Debug/netcoreapp3.1/NetCoreWebApiMultiTier.WebApi.Data.pdb

@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = NetCoreWebApiMultiTier.WebApi.Tests
+build_property.ProjectDir = /Users/allyreid/Desktop/NetCoreWebApiMultiTier/NetCoreWebApiMultiTier.WebApi.Tests/
